@@ -1,5 +1,6 @@
 <!--### Hi there 👋-->
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+<!-- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates -->
 
 <!--
 **Fady-Ibra/Fady-Ibra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
