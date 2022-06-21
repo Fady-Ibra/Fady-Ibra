@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there 👋, I'm Fady</h1>
-<h3 align="center">Google Cloud Champion Innovator</h3>
+<!--h3 align="center">Google Cloud Champion Innovator</h3-->
 
-- 👯 I’m looking to collaborate on **Google Cloud**
+<!-- - 👯 I’m looking to collaborate on **Google Cloud** -->
 
 <!-- - 👨‍💻 All of my projects are available at [https://github.com/Fady-Ibra](https://github.com/Fady-Ibra) -->
 
